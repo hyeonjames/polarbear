@@ -1,0 +1,23 @@
+{
+  "name": "polarbear",
+  "version": "1.0.0",
+  "description": "web site and db helper using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmdgus0118/polarbear.git"
+  },
+  "keywords": [
+    "polarbear",
+    "express"
+  ],
+  "author": "seunghyun,kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmdgus0118/polarbear/issues"
+  },
+  "homepage": "https://github.com/tmdgus0118/polarbear#readme"
+}
